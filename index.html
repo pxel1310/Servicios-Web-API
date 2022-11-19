@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./css/style.css" />
+    <link rel="shortcut icon" href="./src/img/shortcut.gif" />
+    <link rel="stylesheet" href="./css/styles-dou.css" />
+    <title>Dōjutsu</title>
+  </head>
+
+  <!-- Hecho con células de Hashirama pa' que amarre -->
+
+  <body>
+    <header>
+      <nav class="navbar navbar-light navGod">
+        <div class="container-fluid">
+          <p class="navP">
+            Dōjutsu - Naruto
+            <img
+              src="https://indiehoy.com/wp-content/uploads/2022/05/naruto.jpg"
+              class="navImg"
+            />
+          </p>
+        </div>
+      </nav>
+    </header>
+
+    <main id="main">
+      <div class="wrapper">
+        <section class="cards">
+          <div class="favourites__title">
+            <h2>Dōjutsu</h2>
+          </div>
+          <div class="desc">
+            <p>
+              Un Dōjutsu es un tipo de técnica ninja, son habilidades ninja
+              genéticas que se manifiestan en los ojos, lo que les permite
+              percibir chakra de una forma u otra. Al ser un subproducto del
+              Kekkei Genkai, los dōjutsus no se clasifican como uno de los
+              principales tipos de jutsu. No requieren el uso de sellos y a
+              veces facilita el uso o la defensa contra el genjutsu, taijutsu y
+              ninjutsu para derrotar al oponente. Todos los dōjutsu son
+              conocidos también por proporcionar al usuario algunas habilidades
+              únicas, como un campo ampliado de las capacidades de visión o como
+              forma de predecir movimientos enemigos, etc. El uso de dōjutsu
+              consume chakra mínimo, dependiendo de la experiencia de usuario y
+              del jutsu que es usado; incluso al tener una fuerte emoción o una
+              gran cantidad de chakra en batalla el dojutsu brilla manifestando
+              más su poder, peligrosidad y/o habilidad.
+            </p>
+            <!-- Iba ser de Jutsus elementales pero estan bien chafas, mejor de los DōjutGOD -->
+          </div>
+          <div class="cards_doujutsus card-wrapper"></div>
+          <div class="random__refresh-button">
+            <button type="button" onclick="getDo()">
+              <span></span>Random Dōjutsu
+            </button>
+          </div>
+
+          <!-- Dios bendiga a bootstrap, me ahorre el Modal xd -->
+        </section>
+        <section class="cards">
+          <div class="favourites__title">
+            <h2>Usuarios de Dōjutsu</h2>
+          </div>
+          <div class="cards_usuarios card-wrapper"></div>
+          <br />
+          <div class="random__refresh-button">
+            <label for="bMiem"
+              >Buscador de Usuarios:
+              <input id="bMiem" type="text" onkeypress="getUsuSearch()"
+            /></label>
+            <button type="button" onclick="getUsu()">
+              <span></span>Random usuario
+            </button>
+          </div>
+        </section>
+        <section id="modal">
+          <div
+            class="modal fade"
+            id="mimodal"
+            tabindex="-1"
+            aria-hidden="true"
+            aria-labelledby="modalTitle"
+          >
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-header"></div>
+                <div class="modal-body"></div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+    </main>
+    <footer>
+      <ul>
+        <li>
+          Github repository:
+          <a
+            href="https://github.com/pxel1310/5IV7_AyalaGonzlezIan_AP"
+            target="_blank"
+            >5IV7_AyalaGonzlezIan_AP</a
+          >
+        </li>
+        <li>
+          Nombre:
+          <a target="_blank">Ayala González Ian</a>
+        </li>
+        <li>
+          Grupo:
+          <a target="_blank">5IV7</a>
+        </li>
+      </ul>
+    </footer>
+    <script src="./node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="./js/index.js"></script>
+  </body>
+</html>

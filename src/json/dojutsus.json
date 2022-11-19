@@ -1,0 +1,450 @@
+[
+  {
+    "id": "1",
+    "title": "Sharingan",
+    "description": "Sharingan (写輪眼, Pupila Giratoria). Es un doujutsu de línea sucesoria que sólo poseen los usuarios del Clan Uchiha de la Aldea Oculta de Konoha, del País del Fuego. Los motivos exactos para despertar el Sharingan no se saben ciertamente, aunque muchos creen que para despertarlo se ha de estar en una situación muy peligrosa o que amenace su vida, así el cuerpo, despierta el Sharingan para protegerse. El Sharingan es un doujutsu (técnica ocular); se caracteriza porque el que lo tiene, una capa de sangre cubre la pupila haciendo el ojo color rojo con dos o tres marcas en forma de coma apuntando a la pupila dependiendo del desarrollo de su técnica. Con esta técnica, su propietario es capaz de copiar todo tipo de técnicas de sus enemigos, incluyendo Taijutsu (cuerpo a cuerpo), Genjutsu (técnicas ilusorias) y ninjutsu (técnicas ninja), excepto otras técnicas de línea sucesoria y Ninjutsus de rango S.",
+    "url": "./src/img/Sharingan/Sharingan.png",
+    "sound":"./src/sounds/Sharingan/Sharingan.mp3",
+    "usuarios": [
+
+      {
+        "id": "1",
+        "dojutsu": "Sharingan",
+        "usuario": "Sasuke Uchiha",
+        "clan": "Uchiha",
+        "url": "./src/img/Sharingan/Sasuke_Uchiha.webp"
+      },
+      {
+        "id": "2",
+        "dojutsu": "Sharingan",
+        "usuario": "Madara Uchiha",
+        "clan": "Uchiha",
+        "url": "https://i.pinimg.com/originals/14/80/b7/1480b736c732bc3cc822cec9df924bc1.jpg"
+      },
+      {
+        "id": "3",
+        "dojutsu": "Sharingan",
+        "usuario": "Itachi Uchiha",
+        "clan": "Uchiha",
+        "url": "https://i0.wp.com/skdesu.com/wp-content/uploads/2022/09/itachi.jpg?resize=707%2C398&ssl=1"
+      },
+      {
+        "id": "4",
+        "dojutsu": "Sharingan",
+        "usuario": "Shisui Uchiha",
+        "clan": "Uchiha",
+        "url": "./src/img/Sharingan/Shisui_Uchiha.webp"
+      },
+      {
+        "id": "5",
+        "dojutsu": "Sharingan",
+        "usuario": "Obito Uchiha",
+        "clan": "Uchiha",
+        "url": "./src/img/Sharingan/Obito_Uchiha.webp"
+      },
+      {
+        "id": "6",
+        "dojutsu": "Sharingan",
+        "usuario": "Sarada Uchiha",
+        "clan": "Uchiha",
+        "url": "https://laverdadnoticias.com/__export/1602351075187/sites/laverdad/img/2020/10/10/sarada_uchiha_sharingan.jpg_1902800913.jpg"
+      },
+      {
+        "id": "7",
+        "dojutsu": "Sharingan",
+        "usuario": "Izuna Uchiha",
+        "clan": "Uchiha",
+        "url": "https://cdn.myanimelist.net/r/360x360/images/characters/12/71732.jpg?s=717b9114bdcd9d05ae91fb36fdee6bf4"
+      },
+      {
+        "id": "8",
+        "dojutsu": "Sharingan",
+        "usuario": "Tajima Uchiha",
+        "clan": "Uchiha",
+        "url": "./src/img/Sharingan/Tajima_Uchiha.webp"
+      },
+      {
+        "id": "9",
+        "dojutsu": "Sharingan",
+        "usuario": "Fugaku Uchiha",
+        "clan": "Uchiha",
+        "url": "./src/img/Sharingan/Fugaku_Uchiha.webp"
+      },
+      {
+        "id": "10",
+        "dojutsu": "Sharingan",
+        "usuario": "Indra Ōtsutsuki",
+        "clan": "Ōtsutsuki",
+        "url": "http://pm1.narvii.com/6214/8132b9fdcf8e19c464822bc2ba4ec3a3d58c18df_00.jpg"
+      },
+      {
+        "id": "11",
+        "dojutsu": "Sharingan",
+        "usuario": "Kakashi Hatake",
+        "clan": "Hatake",
+        "url": "https://aweita.cronosmedia.glr.pe/original/2020/09/15/5f612a6987c7c07c2469c596.jpg"
+      },
+      {
+        "id": "12",
+        "dojutsu": "Sharingan",
+        "usuario": "Danzō Shimura",
+        "clan": "Shimura",
+        "url": "https://www.comicversatiloficial.com/wp-content/uploads/2019/02/Danzou-Shimura-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Mangekyō Sharingan",
+    "description": "El Mangekyō Sharingan (万華鏡写輪眼, Mangekyō Sharingan, literalmente «Ojo Copiador Giratorio de Caleidoscopio») es una forma avanzada del Sharingan, que solo ha sido alcanzada por un puñado de Uchiha en la historia. Se dice que son los «ojos celestiales que ven la verdad de toda la creación sin obstrucción» (天壌の理を掌握せし瞳 tenjō no kotowari o shōakuseshi hitomi). Esta evolución le da a su usuario el acceso a un gran poder y la capacidad de realizar técnicas prohibidas y misteriosas; además, se distingue de un sharingan normal por su apariencia, que cambia drásticamente su diseño, según el portador del dōjutsu.",
+    "url": "./src/img/MSharingan/MSharingan.webp",
+    "sound":"./src/sounds/MSharingan/MSharingan.mp3",
+    "usuarios": [
+
+      {
+        "id": "13",
+        "dojutsu": "Mangekyō Sharingan",
+        "usuario": "Indra Ōtsutsuki",
+        "clan": "Ōtsutsuki",
+        "url": "https://i.ytimg.com/vi/MENgbrgm9UM/maxresdefault.jpg"
+      },
+      {
+        "id": "14",
+        "dojutsu": "Mangekyō Sharingan",
+        "usuario": "Madara Uchiha",
+        "clan": "Uchiha",
+        "url": "data:image/jpeg;base64,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"
+      },
+      {
+        "id": "15",
+        "dojutsu": "Mangekyō Sharingan",
+        "usuario": "Izuna Uchiha",
+        "clan": "Uchiha",
+        "url": "http://pm1.narvii.com/6184/51ced22741cb1b5fe54bcff1014fbdffa7536941_00.jpg"
+      },
+      {
+        "id": "16",
+        "dojutsu": "Mangekyō Sharingan",
+        "usuario": "Obito Uchiha",
+        "clan": "Uchiha",
+        "url": "./src/img/MSharingan/Obito_Uchiha.webp"
+      },
+      {
+        "id": "17",
+        "dojutsu": "Mangekyō Sharingan",
+        "usuario": "Shisui Uchiha",
+        "clan": "Uchiha",
+        "url": "https://pm1.narvii.com/6372/daaf29f3195aa778b61c1a92f927167c53da240a_hq.jpg"
+      },
+      {
+        "id": "18",
+        "dojutsu": "Mangekyō Sharingan",
+        "usuario": "Itachi Uchiha",
+        "clan": "Uchiha",
+        "url": "https://i.pinimg.com/originals/ce/89/47/ce8947b6ca09d52ad4091e8095699ba7.png"
+      },
+      {
+        "id": "19",
+        "dojutsu": "Mangekyō Sharingan",
+        "usuario": "Sasuke Uchiha",
+        "clan": "Uchiha",
+        "url": "https://www.drakonball.com/wp-content/uploads/2020/12/Como-SASUKE-obtuvo-el-MANGEKYO-SHARINGAN-ETERNO.jpg"
+      },
+      {
+        "id": "20",
+        "dojutsu": "Mangekyō Sharingan",
+        "usuario": "Kakashi Hatake",
+        "clan": "Hatake",
+        "url": "https://nntheblog.com/wp-content/uploads/2022/04/Kakashi-Sharingan-640x321-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Mangekyō Sharingan Eterno",
+    "description": "Mangekyō Sharingan Eterno (永遠の万華鏡写輪眼, Fūmetsu Mangekyō Sharingan) es la metamorfosis del Mangekyō Sharingan. Es obtenido al quitarle el Mangekyō Sharingan a otro Uchiha e implantárselo. Al hacerlo ambos diseños se fusionan, el poseedor de dicho Sharingan puede utilizar las técnicas del Mangekyō Sharingan y sigue viendo sin que se le deteriore o pierda completamente la vista, es un Sharingan relativamente perfecto.",
+    "url": "./src/img/MSharinganE/MSharinganE.webp",
+    "sound":"",
+    "usuarios": [
+
+      {
+        "id": "21",
+        "dojutsu": "Mangekyō Sharingan Eterno",
+        "usuario": "Madara Uchiha",
+        "clan": "Uchiha",
+        "url": "https://www.comicversatiloficial.com/wp-content/uploads/2022/05/Mangekyou-Sharingan.jpg"
+      },
+      {
+        "id": "22",
+        "dojutsu": "Mangekyō Sharingan Eterno",
+        "usuario": "Sasuke Uchiha",
+        "clan": "Uchiha",
+        "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a364615-1727-4be0-8497-a8fef7bb5fba/d5aw7l4-3832e642-2a4c-4d01-952e-e68d4ca639bc.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdhMzY0NjE1LTE3MjctNGJlMC04NDk3LWE4ZmVmN2JiNWZiYVwvZDVhdzdsNC0zODMyZTY0Mi0yYTRjLTRkMDEtOTUyZS1lNjhkNGNhNjM5YmMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.k_oEDrKffs853u0X8O9q0_JpVJy2Waq2PP3JJLjqgsU"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Byakugan",
+    "description": "El Byakugan (白眼, Ojo blanco) es un dōjutsu de línea sucesoria procedente del clan Hyūga. El cual se manifiesta desde el nacimiento en todos los usuarios del clan, aunque pueden diferenciarse según el poder que tome en cada persona. En el Byakugan se manifiestan dos fases: una pasiva y otra activa. El Byakugan pasivo, es decir mientras está desactivado muestra unos ojos malva, ni siquiera cristalinos capaces de ver e interpretar los movimientos del oponente. el Byakugan activo al activarse parece como si las blancas pupilas se agrietasen, a la vez que se marcan todas las venas de las templas de alrededor de los ojos.",
+    "url": "./src/img/Byakugan/Byakugan.png",
+    "sound":"./src/sounds/Byakugan/Byakugan.mp3",
+    "usuarios": [
+
+      {
+        "id": "23",
+        "dojutsu": "Byakugan",
+        "usuario": "Toneri Ōtsutsuki",
+        "clan": "Ōtsutsuki",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyKzDvlT-yA_QCp2FJ5R2qJG-M0ZRa8dBzVw&usqp=CAU"
+      },
+      {
+        "id": "24",
+        "dojutsu": "Byakugan",
+        "usuario": "Kaguya Ōtsutsuki",
+        "clan": "Ōtsutsuki",
+        "url": "https://i.pinimg.com/originals/36/8c/79/368c79cc5799b8673dff7cc76b35cd41.png"
+      },
+      {
+        "id": "25",
+        "dojutsu": "Byakugan",
+        "usuario": "Kinshiki Ōtsutsuki ",
+        "clan": "Ōtsutsuki",
+        "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/614b2d7b-a8b4-429f-b558-3235c3f28d29/detcrnp-f1020bc7-eb36-421f-9768-346842058872.png/v1/fill/w_400,h_353,strp/kinshiki_otsutsuki_by_jirapong61_detcrnp-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzUzIiwicGF0aCI6IlwvZlwvNjE0YjJkN2ItYThiNC00MjlmLWI1NTgtMzIzNWMzZjI4ZDI5XC9kZXRjcm5wLWYxMDIwYmM3LWViMzYtNDIxZi05NzY4LTM0Njg0MjA1ODg3Mi5wbmciLCJ3aWR0aCI6Ijw9NDAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.qyrzuJ7wzfO9MkT3Ibt00YfBy-igmE1DC55WeTdmfQQ"
+      },
+      {
+        "id": "26",
+        "dojutsu": "Byakugan",
+        "usuario": "Momoshiki Ōtsutsuki",
+        "clan": "Ōtsutsuki",
+        "url": "http://pm1.narvii.com/6459/381ec27b904317e6f097e5a13999706c451377c8_00.jpg"
+      },
+      {
+        "id": "27",
+        "dojutsu": "Byakugan",
+        "usuario": "Hamura Ōtsutsuki",
+        "clan": "Ōtsutsuki",
+        "url": "http://pm1.narvii.com/6616/8676be2f55e4409e21aedd0c9b598fd5ecc1cf96_00.jpg"
+      },
+      {
+        "id": "28",
+        "dojutsu": "Byakugan",
+        "usuario": "Hanabi Hyūga",
+        "clan": "Hyūga",
+        "url": "https://i.pinimg.com/564x/1c/b7/fe/1cb7fee2fb10883f55b362411087d616.jpg"
+      },
+      {
+        "id": "29",
+        "dojutsu": "Byakugan",
+        "usuario": "Hinata Hyūga",
+        "clan": "Hyūga",
+        "url": "./src/img/Byakugan/Hinata_Hyūga.webp"
+      },
+      {
+        "id": "30",
+        "dojutsu": "Byakugan",
+        "usuario": "Hiashi Hyūga",
+        "clan": "Hyūga",
+        "url": "https://i.pinimg.com/originals/20/d6/22/20d6229b970b3ea9d12d34ac8d020535.png"
+      },
+
+      {
+        "id": "31",
+        "dojutsu": "Byakugan",
+        "usuario": "Hizashi Hyūga",
+        "clan": "Hyūga",
+        "url": "https://img.wattpad.com/4b81945aa7a4b5d09beacd7f4c2ceb64f22ef99f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f584e677659494b6a7173373777673d3d2d3336373439343734372e313439663937323635626335663234393835313732363632383539342e706e67"
+      },
+      {
+        "id": "32",
+        "dojutsu": "Byakugan",
+        "usuario": "Hoheto Hyūga",
+        "clan": "Hyūga",
+        "url": "https://www.cultture.com/pics/2021/05/naruto-todos-los-miembros-del-clan-hyuga-clasificados-por-su-fuerza-2.jpg"
+      },
+      {
+        "id": "33",
+        "dojutsu": "Byakugan",
+        "usuario": "Iroha Hyūga",
+        "clan": "Hyūga",
+        "url": "https://www.cultture.com/pics/2021/05/naruto-todos-los-miembros-del-clan-hyuga-clasificados-por-su-fuerza-3.jpg"
+      },
+      {
+        "id": "34",
+        "dojutsu": "Byakugan",
+        "usuario": "Kō Hyūga",
+        "clan": "Hyūga",
+        "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f85b51c4-c36e-438a-8f26-6ee5f27f6093/d9v1cco-bdc964b7-552f-4e8c-942e-f654daed5c4c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y4NWI1MWM0LWMzNmUtNDM4YS04ZjI2LTZlZTVmMjdmNjA5M1wvZDl2MWNjby1iZGM5NjRiNy01NTJmLTRlOGMtOTQyZS1mNjU0ZGFlZDVjNGMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bOr9ze8he4SiNhbWSwIUchWxQX7g3fiR0jrNu1jy3VA"
+      },
+      {
+        "id": "35",
+        "dojutsu": "Byakugan",
+        "usuario": "Neji Hyūga",
+        "clan": "Hyūga",
+        "url": "https://i.pinimg.com/originals/32/18/7f/32187ff2f94dc32c564d85dcc2da737e.jpg"
+      },
+      {
+        "id": "36",
+        "dojutsu": "Byakugan",
+        "usuario": "Tokuma Hyūga",
+        "clan": "Hyūga",
+        "url": "./src/img/Byakugan/Tokuma_Hyūga.webp"
+      },
+      {
+        "id": "37",
+        "dojutsu": "Byakugan",
+        "usuario": "Mukai Kohinata",
+        "clan": "Kohinata",
+        "url": "https://i.ytimg.com/vi/EEUdFw7wAMM/maxresdefault.jpg"
+      },
+      {
+        "id": "38",
+        "dojutsu": "Byakugan",
+        "usuario": "Himawari Uzumaki",
+        "clan": "Uzumaki",
+        "url": "https://i.ytimg.com/vi/tDmkg4VC2Sg/mqdefault.jpg"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Rinnegan",
+    "description": "El Rinnegan (輪廻眼, Ojo del Samsara). es uno de los tres legendarios dojutsus que existen, se rumora que es el más poderoso. Este doujutsu legendario, era posesión del Maestro de los 6 caminos (Rikudou Sennin), el creador del ninjutsu moderno. Con el Rinnegan el usuario puede dominar los cinco elementos. También puede dividir su alma y habilidades en varios cuerpos, y los ojos de éstos son usados para ver de varios ángulos al oponente en un mismo instante, y detectar cualquier movimiento.",
+    "url": "./src/img/Rinnegan/Rinnegan.png",
+    "sound":"./src/sounds/Rinnegan/Rinnegan.mp3",
+    "usuarios": [
+
+      {
+        "id": "39",
+        "dojutsu": "Rinnegan",
+        "usuario": "Madara Uchiha",
+        "clan": "Uchiha",
+        "url": "https://i.pinimg.com/originals/0d/3c/ba/0d3cba9022144819f51b031cd6b911a8.png"
+      },
+      {
+        "id": "40",
+        "dojutsu": "Rinnegan",
+        "usuario": "Nagato Uzumaki",
+        "clan": "Uzumaki",
+        "url": "./src/img/Rinnegan/Nagato_Uzumaki.webp"
+      },
+      {
+        "id": "41",
+        "dojutsu": "Rinnegan",
+        "usuario": "Obito Uchiha",
+        "clan": "Uchiha",
+        "url": "./src/img/Rinnegan/Obito_Uchiha.webp"
+      },
+      {
+        "id": "42",
+        "dojutsu": "Rinnegan",
+        "usuario": "Sasuke Uchiha",
+        "clan": "Uchiha",
+        "url": "https://www.egames.news/__export/1623537583324/sites/debate/img/2021/06/12/boruto_por_qux_no_tiene_sentido_que_sasuke_pierda_su_rinnegan.jpg_759710130.jpg"
+      },
+      {
+        "id": "43",
+        "dojutsu": "Rinnegan",
+        "usuario": "Hagoromo Ōtsutsuki",
+        "clan": "Ōtsutsuki",
+        "url": "https://pm1.narvii.com/6477/f8d6b670308e9c3698780cc510fcf65375340b8b_hq.jpg"
+      },
+      {
+        "id": "44",
+        "dojutsu": "Rinnegan",
+        "usuario": "Momoshiki Ōtsutsuki",
+        "clan": "Ōtsutsuki",
+        "url": "./src/img/Rinnegan/Momoshiki_Ōtsutsuki.webp"
+      },
+      {
+        "id": "45",
+        "dojutsu": "Rinnegan",
+        "usuario": "Urashiki Ōtsutsuki",
+        "clan": "Ōtsutsuki",
+        "url": "https://i.pinimg.com/736x/10/6f/b1/106fb192eb1411426dbe5c1a2c4157b2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Tenseigan",
+    "description": "El Tenseigan (転生眼, Tenseigan literalmente «Ojo de Reencarnación») es un Dōjutsu despertado por el Clan Ōtsutsuki de la Luna a partir del Byakugan. Éste se caracteriza por una pupila azul rodeada por un iris con forma de flor de color azul y blanca.",
+    "url": "./src/img/Tenseigan/Tenseigan.webp",
+    "sound":"",
+    "usuarios": [
+
+      {
+        "id": "46",
+        "dojutsu": "Tenseigan",
+        "usuario": "Hamura Ōtsutsuki",
+        "clan": "Ōtsutsuki",
+        "url": "https://pm1.narvii.com/6235/b35a871e8e085d0a78717cc9f9b1884e86e06158_hq.jpg"
+      },
+      {
+        "id": "47",
+        "dojutsu": "Tenseigan",
+        "usuario": "Toneri Ōtsutsuki",
+        "clan": "Ōtsutsuki",
+        "url": "./src/img/Tenseigan/Toneri_Ōtsutsuki.webp"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Rinne-Sharingan",
+    "description": "El Rinne-Sharingan (輪廻写輪眼, Rinne-Sharingan literalmente «Ojo Copiador Giratorio de Saṃsāra») es el predecesor del Rinnegan y el Sharingan. Este ojo se caracteriza por su onda, como el patrón que se extiende a lo largo del globo ocular, con un fino iris rojo y escleróticas, conteniendo nueve tomoe, tres en cada una de las escleróticas.",
+    "url": "./src/img/Rinne_Sharingan/Rinne_Sharingan.webp",
+    "sound":"./src/sounds/Rinne_Sharingan/Rinne_Sharingan.mp3",
+    "usuarios": [
+
+      {
+        "id": "48",
+        "dojutsu": "Rinne-Sharingan",
+        "usuario": "Kaguya Ōtsutsuki",
+        "clan": "Ōtsutsuki",
+        "url": "https://www.cultture.com/pics/2020/09/naruto-5-razones-por-las-que-isshiki-es-el-otsutsuki-mas-fuerte-amp-5-es-kaguya-3.jpg"
+      },
+      {
+        "id": "49",
+        "dojutsu": "Rinne-Sharingan",
+        "usuario": "Madara Uchiha",
+        "clan": "Uchiha",
+        "url": "https://qph.cf2.quoracdn.net/main-qimg-5146a0d5415626eb5d9005fecceeaf72-lq"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Jōgan",
+    "description": "El Jōgan (浄眼, Jōgan; literalmente «Ojo Puro») es un Dōjutsu despertado por Boruto Uzumaki en su ojo derecho. El Jōgan es capaz de percibir el flujo de chakra, lo que le permite a Boruto observar los cambios visibles en el chakra de un individuo y también rastrearlo a través del mismo.",
+    "url": "./src/img/Jōgan/Jōgan.svg",
+    "sound":"",
+    "usuarios": [
+
+      {
+        "id": "50",
+        "dojutsu": "Jōgan",
+        "usuario": "Boruto Uzumaki",
+        "clan": "Uzumaki",
+        "url": "https://www.egames.news/__export/1624072921956/sites/debate/img/2021/06/10/cuxl_es_el_poder_que_tiene_boruto_en_su_ojo_derecho.jpg_242310155.jpg"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Dōjutsu de Isshiki Ōtsutsuki",
+    "description": "Es un dōjutsu que posee Isshiki Ōtsutsuki en su ojo derecho con el cual puede encoger la materia y volverla a agrandar, también es capaz de almacenar objetos encogidos en una dimensión donde no transcurre el tiempo y liberarlos a voluntad.",
+    "url": "./src/img/Doujutsu_de_Isshik/Doujutsu_de_Isshik.png",
+    "sound":"",
+    "usuarios": [
+
+      {
+        "id": "51",
+        "dojutsu": "Dōjutsu de Isshiki Ōtsutsuki",
+        "usuario": "Isshiki Ōtsutsuki",
+        "clan": "Ōtsutsuki",
+        "url": "./src/img/Doujutsu_de_Isshik/Doujutsu_de_Isshik1.webp"
+      }
+    ]
+  }
+]

@@ -1,0 +1,911 @@
+[
+  {
+    "id": "K1",
+    "elemento": "Katon",
+    "title": "Katon: Hōsenka no Jutsu",
+    "translate": "Elemento Fuego: Jutsu Llamas del Fénix",
+    "rango": "Rango D",
+    "description": "Es un ninjutsu del Elemento Fuego que consiste en crear pequeñas bolas de fuego que son lanzadas por la boca del usuario y vuelan en todas direcciones atacando al enemigo. Las llamas están controladas con chakra. Este jutsu, sin embargo, es utilizado más que nada como una distracción para ataques más fuertes.",
+    "url": "http://pa1.narvii.com/7039/83876d8ab6732650800554c28cceeeab7883e7c9r1-320-240_00.gif"
+  },
+  {
+    "id": "K2",
+    "elemento": "Katon",
+    "title": "Katon: Kasumi Enbu no Jutsu",
+    "translate": "Jutsu Danza de Niebla Mistica",
+    "rango": "Rango D",
+    "description": "El usuario después de realizar los sellos de mano necesarios, el usuario puede crear y quemar un gas inflamable que expulsa de sus pulmones. Una vez que entra en contacto con fuego o chispas, el gas se inflama en una gran bola de fuego. El usuario puede provocar que el gas se inflame, usando alguna fuente de fuego o incluso otro jutsu de fuego, o se puede producir por sí solo, al entrar en contacto con el fuego o las chispas, que ya están en el entorno.",
+    "url": "https://img.wattpad.com/9eafd1ee705f5f30a1480b3ecd7733f87e5b4cd0/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f7970395250644a69314a616665773d3d2d3938323532393432382e313635373162646638396265313062333438303133323133303334302e676966?s=fit&w=720&h=720"
+  },
+  {
+    "id": "K3",
+    "elemento": "Katon",
+    "title": "Katon: Hōsenka Tsumabeni",
+    "translate": "Elemento Fuego: Uñas de Carmesí Flor de Llamas de Fénix",
+    "rango": "Rango D",
+    "description": "El usuario puede crear una lluvia intensa de Shuriken infundidas con fuego, con la finalidad de aumentar su potencial de destrucción por lo que son capaces de dañar y quemar a cualquiera que entre en contacto con ellas. Para realizar esto el usuario, primero debe lanzar unas cuantas shurikens y rápidamente, escupir pequeñas bolas de fuego, hacia estas, de esta forma, las shurikens, quedan envueltas, en una capa de Fuego aumentado su daño.",
+    "url": "http://pa1.narvii.com/7561/1305d8edf3db9dbc1cf0b0ef3a668e9c9d000f11r1-320-185_00.gif"
+  },
+  {
+    "id": "K4",
+    "elemento": "Katon",
+    "title": "Katon : Tenrō Kaken",
+    "translate": "Elemento Fuego: Prisión Celestial ",
+    "rango": "Rango D",
+    "description": "Con esta técnica el usuario crea una llamarada de fuego a partir de su mano, que al poco de ser expulsada se moldea para crear una lanza o una espada de fuego en la mano del usuario con ella se puede atravesar a alguien con facilidad y cuando esto sucede el adversario empieza a arder. Además, debido a la temperatura del Fuego, cuando la espada atraviesa a alguien y el usuario, la retira, las heridas cicatrizaran muy rápidamente, impidiendo que el afectado, pueda curarse la herida, de forma convencional, entonces esto provoca, que el afectado, siga quemado por dentro, lo que le produce un gran dolor.",
+    "url": "https://pa1.narvii.com/6799/dba392122a449257df49d9539e50e030691f1d65_hq.gif"
+  },
+  {
+    "id": "K5",
+    "elemento": "Katon",
+    "title": "Katon: Kaen Senpū",
+    "translate": "Elemento Fuego: Torbellino de Llamas ",
+    "rango": "Rango D",
+    "description": "El usuario crea fuego alrededor de su cuerpo y luego lo lanza hacia el objetivo en forma de espiral. Este se deshace en poco tiempo y su tamaño no es demasiado elevado, solo causa quemaduras leves sobre el rival, por otro lado, si el usuario desea, puede hacer que el torbellino permanezca, a su alrededor, creando una especia de escudo de Fuego, esto aumenta la defensa del usuario, ya que cualquier ataque fisico, sera rechazado por el fuego. ",
+    "url": "https://c.tenor.com/9FUywGoKqcQAAAAC/katon-kaen.gif"
+  },
+  {
+    "id": "K6",
+    "elemento": "Katon",
+    "title": "Katon: Benijigumo",
+    "translate": "Elemento Fuego: Araña Roja",
+    "rango": "Rango C",
+    "description": "Es un jutsu donde el usuario escupe fuego que rodea al enemigo y luego se transforma en una araña la cual ataca directamente al enemigo. Esta técnica es eficaz tanto para realizar una trampa como para atacar al opositor al mismo tiempo y puede ser usado para obligarlos a esquivar su jutsu.",
+    "url": "https://2img.net/r/hpimg4/pics/615298cervenypav.gif"
+  },
+  {
+    "id": "K7",
+    "elemento": "Katon",
+    "title": "Katon: Hibashiri",
+    "translate": "Elemento Fuego: Fuego Cortante ",
+    "rango": "Rango C",
+    "description": "Este jutsu crea una corriente de fuego que puede ser manipulado en varias formas antes de golpear el objetivo. También se puede utilizar en combinación con el Elemento Viento: Viento Divino para crear un tornado de llamas o con el Elemento Viento: Viento del Dios de las Montañas para liberar un masivo infierno.",
+    "url": "https://c.tenor.com/lMCvq9pXmDMAAAAC/katon-hibashiri.gif"
+  },
+  {
+    "id": "K8",
+    "elemento": "Katon",
+    "title": "Katon: Ryūka no Jutsu",
+    "translate": "Elemento Fuego: Jutsu Dragón de Fuego ",
+    "rango": "Rango C",
+    "description": "Es un jutsu que utiliza la naturaleza tipo Fuego y consiste en que después de haber imposibilitado al enemigo de realizar cualquier contraataque al usuario, el usuario moldea su chakra y lo concentra en su pecho para después expulsarlo por la boca en forma de una llamarada de fuego que es controlada para que siga un hilo hasta la ubicación del enemigo. El usuario necesita previamente, lanzar un hilo ninja, para que la llamarada siga el hilo, hasta su objetivo.",
+    "url": "https://thumbs.gfycat.com/PartialDisastrousBoilweevil-size_restricted.gif"
+  },
+  {
+    "id": "K9",
+    "elemento": "Katon",
+    "title": "Katon: Haisekishō",
+    "translate": "Elemento Fuego: Cenizas Ardientes",
+    "rango": "Rango C",
+    "description": "El usuario arroja una gran cantidad de ceniza con chakra y pólvora de su boca, llenando todo el lugar. A medida que la pólvora esta oculta en su totalidad en las cenizas, se queda en el aire rodeando al enemigo en forma de nube. Después de rodear al enemigo con la ceniza, el usuario puede encender todo con una piedra colocada entre los dientes para crear una chispa, lo que resulta en una violenta explosión, que quema al enemigo. Sin embargo, esta técnica requiere agudos sentidos para leer las corrientes de aire, leer los movimientos del enemigo, la experiencia táctica de no envolver también a uno de sus aliados en las llamas y una cuidadosa atención para el momento de la explosión.",
+    "url": "https://c.tenor.com/aYBgAeREEw0AAAAd/katon-katon-haisekishou.gif"
+  },
+  {
+    "id": "K10",
+    "elemento": "Katon",
+    "title": "Katon: Endan",
+    "translate": "Elemento Fuego: Bala de Fuego",
+    "rango": "Rango C",
+    "description": "Es un jutsu que utiliza la naturaleza tipo Fuego, en donde el usuario al concentrar aceite en su boca lo incendia escupiendo una bala de fuego. Si la cantidad de aceite se mantiene, el tiempo de ejecución se reduce. Esto permite golpear al enemigo sin que este se percate de ello, permitiendo a la bala de fuego cargada de aceite le queme por completo. También es posible disparar una serie de balas mediante la separación del aceite.",
+    "url": "https://c.tenor.com/3bGYdYAu8M8AAAAC/katon-katon-endan.gif"
+  },
+  {
+    "id": "K11",
+    "elemento": "Katon",
+    "title": "Katon: Zukokku",
+    "translate": "Elemento Fuego: Incendio Mortal ",
+    "rango": "Rango B",
+    "description": "Es un jutsu que utiliza el usuario, en donde esta lanza de su boca una inmensa bala de fuego que explota al inmediato contacto, causando que se creen unas poderosas llamas arrasadoras capaces de destruir una zona en pocos segundos. Lo eficaz de esta técnica es que, debido a que puede cubrir un gran rango, hace que le sea difícil a su oponente escapar del ataque. Generalmente, este ninjutsu es utilizado en combinación con el jutsu Elemento Viento: Daño de Presión, para que de esa forma su poder destructivo aumente drásticamente. Esta unión es tan fuerte que puede evaporar fácilmente el agua.",
+    "url": "https://c.tenor.com/uVx4pzmZlLsAAAAC/kakuzu-zukokku.gif"
+  },
+  {
+    "id": "K12",
+    "elemento": "Katon",
+    "title": "Katon: Karyū Endan",
+    "translate": "Elemento Fuego: Bala de Fuego Flama de Dragón ",
+    "rango": "Rango B",
+    "description": "Es un jutsu que consiste en amasar su chakra para convertirlo en fuego y expulsarlo por su boca en forma de un chorro de fuego altamente potente con forma de un dragón. Debido a que las llamas obedecen la voluntad del usuario, su dominio es extremadamente difícil por lo que pocos usuarios de alto nivel pueden usarlo. Las llamas se dividen y van en tres direcciones diferentes, izquierda, derecha y el asalto frontal, dejando al enemigo sin escapatoria y convirtiéndolo en cenizas en cuestión de segundos.",
+    "url": "https://thumbs.gfycat.com/SlimyPrestigiousBasilisk-size_restricted.gif"
+  },
+  {
+    "id": "K13",
+    "elemento": "Katon",
+    "title": "Katon: Gōka Messhitsu",
+    "translate": "Elemento Fuego: Destrucción Magnífica de Fuego",
+    "rango": "Rango B",
+    "description": "Es una técnica en la que el usuario amasa chakra en el interior de su cuerpo y lo convierte en fuego y luego lo expulsa por la boca como una corriente masiva de intensas llamas. Este jutsu puede prolongarse todo lo que el usuario desee, tan solo debe, mantener el ultimo sello en su boca y seguir canalizando chakra y expulsando, fuego, este jutsu cambia su trayectoria al mismo tiempo, que el usuario cambia su posición, por lo tanto, el usuario puede dar un giro rápido, para que el fuego, cambie de dirección bruscamente. Cada turno que el usuario mantenga este jutsu activado, le restara 40 CK al usuario.",
+    "url": "https://pa1.narvii.com/6796/284829163d5c041dc4e6d4d46a921f763cbf91e6_hq.gif"
+  },
+  {
+    "id": "K14",
+    "elemento": "Katon",
+    "title": "Katon: Gōka Mekkyaku",
+    "translate": "Elemento Fuego: Grán Aniquilación de Fuego ",
+    "rango": "Rango B",
+    "description": "Es una versión más fuerte y poderosa del Elemento Fuego: Jutsu Gran Bola de Fuego, en donde el usuario amasa chakra en el interior del cuerpo y posteriormente lo convierte en fuego que es expulsado de la boca en forma de un intenso muro de llamas que cubre un amplio rango de ataque, tanto horizontal como vertical, lo cual lo hace muy difícil de evadir. El muro de fuego cubre un espacio de 7 metros de alto por 5 metros de ancho. El gasto de chakra de este jutsu es considerable pero su poder de destruccion es muy elevado.",
+    "url": "https://thumbs.gfycat.com/UnhealthyEverlastingElephantbeetle-size_restricted.gif"
+  },
+  {
+    "id": "K15",
+    "elemento": "Katon",
+    "title": "Katon: Onidōrō",
+    "translate": "Elemento Fuego: Linterna del Demonio ",
+    "rango": "Rango B",
+    "description": "Esta técnica libera varios fantasmas de fuego que atacan a su oponente en forma de enjambre. El usuario crea unos círculos amarillos en el suelo, de los cuales salen los fantasmas de fuego y se dispersan en diferentes direcciones, los fantasmas al desplazarse le salen unas colas de fuego. Al parecer no se les puede coordinar su dirección. al impactar con el enemigo, los fantasmas explotan, produciendo quemaduras en el adversario y lanzándolo varios metros.",
+    "url": "http://pa1.narvii.com/6614/034ad0fb5332e055af9c1fa0edb678f019a2869d_00.gif"
+  },
+  {
+    "id": "K16",
+    "elemento": "Katon",
+    "title": "Katon Renkeijutsu: Karura",
+    "translate": "Elemento Fuego Jutsu de Cooperación: Garuda",
+    "rango": "Rango A",
+    "description": "Es un jutsu que requiere de tres usuarios donde todos exhalan una larga llama de fuego intenso, que se combinan para formar un dragón de fuego. Los 3 usuarios se colocan, uno al lado del otro, es decir, uno en el centro, otro a la derecha de este y el otro a la izquierda, despues realizan la secuencia de sellos y entonces, cada uno comienza a expulsar fuego, por su boca, uniendose los 3 chorros de fuego y formando un enorme dragon, que tiene un gran poder destructivo y puede dañar gravemente al oponente.",
+    "url": "https://img.wattpad.com/c6af70dcf805282607706ae13d76f3784391ceb8/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f7a444c683535674f303379384f413d3d2d3938323532393432382e313635373164343933346132383035623932373832343531333430302e676966"
+  },
+  {
+    "id": "K17",
+    "elemento": "Katon",
+    "title": "Katon Houka Taiho",
+    "translate": "Domo de Fuego",
+    "rango": "Rango A",
+    "description": "El ninja usa su chakra para quemar el aire alrededor del oponente dejandolo atrapado en un domo de fuego. Una vez encerrado el oponente no podrá salir en 3 turnos, no podrá esquivar, ni atacar, ni ser atacado con taijutsu. Pasados los 3 turnos el rival no podra moverse correctamente debido a la falta de oxígeno, por lo tanto, el turno despues de escapar del domo sera vulnerable y más lento. Inesquivable.",
+    "url": "https://img.wattpad.com/ad6b3380f03c52afda735d87bb3a435c2c7f495d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f786331364a4f4d456974735f68513d3d2d3938323532393432382e3136353731633939656232346530336339303034303435383334372e6a7067?s=fit&w=720&h=720"
+  },
+  {
+    "id": "K18",
+    "elemento": "Katon",
+    "title": "Katon: Hikui Oka",
+    "translate": "Elemento Fuego: Llamarada Descendente",
+    "rango": "Rango S",
+    "description": "Tecnica parecida al Jutsu Gran Bola de Fuego que debe realizarse desde el aire. Segun las leyes de la fisica, el fuego sube. Esta técnica rompe esa norma, pudiendo realizar una gran bola de fuego descendente que al impactar en el suelo se expande. Cubre un diametro de 25 metros. La Gran bola de fuego tiene las mismas dimensiones que el jutsu original, pero esta es más poderosa, debido a que, al impactar contra el suelo, provoca una onda expansiva que se expande hasta 25 metros, dañando todo a su paso, ademas, debido a la gravedad la bola produce más daño si impacta diectamente contra el rival, produciendole la muerte instantanea debido a las quemaduras graves.",
+    "url": "./src/img/K18.gif"
+  },
+  {
+    "id": "K19",
+    "elemento": "Katon",
+    "title": "Katon: Gouryuuka no Jutsu",
+    "translate": "Elemento Fuego: Gran Dragón de Fuego ",
+    "rango": "Rango S",
+    "description": "El usuario comprime una gran cantidad de chakra acumulado en el interior de su cuerpo y cambia su forma de bola de fuego a la forma de un enorme dragón. Después, el usuario puede manipular hábilmente el fuego y esquivando los ataques de su oponente los lanza a la atmósfera. Incluso fuera del rango de ataque, su potencia es muy grande. Las llamas tienen una temperatura altisima, ya que pueden crear un calor que a su vez puede dar lugar a nubes de tormenta. Un maestro de esta técnica puede disparar llamas, varias veces en sucesión. Cualquier persona capturada en la técnica podría ser reducida a cenizas. Es una técnica de rango suplementario ya que también puede ser utilizada para crear nubes de tormenta y de esta manera realizar el Kirin.",
+    "url": "https://c.tenor.com/2vdIrAIQ-gMAAAAd/gouryuuka-no-jutsu.gif"
+  },
+  {
+    "id": "K20",
+    "elemento": "Katon",
+    "title": "Katon: Ryūen Hōka no Jutsu",
+    "translate": "Elemento Fuego: Liberación de la Canción del Dragón de Fuego ",
+    "rango": "Rango S",
+    "description": "Al igual que con el jutsu Elemento Fuego: Gran Dragón de Fuego, el usuario comprime una gran cantidad de chakra acumulado en el interior de su cuerpo y cambia su forma de bola de fuego a la forma de un enorme dragón. Cualquier persona capturada en la técnica podría ser reducida a cenizas. La diferencia de este jutsu con el original es en que, en este, el usuario es capaz de crear 3 dragones, que se dirigen hacia un mismo objetivo o hacia varios, este jutsu, es más efectivo para atacar a varios ninjas, al mismo tiempo, ya que los dragones, pueden ser dirigidos por el usuario una vez son lanzados.",
+    "url": "http://pa1.narvii.com/6973/64607e8afd8336240979ece086e576700e58df2dr1-500-281_00.gif"
+  },
+  {
+    "id": "S1",
+    "elemento": "Suiton",
+    "title": "Suiton: Suishōha",
+    "translate": "Elemento Agua: Choque de Olas de Agua",
+    "rango": "Rango D",
+    "description": "Es un jutsu de agua que genera una enorme cantidad de agua alrededor del usuario, la cual comienza a girar y va adquiriendo la forma de un vórtice espiral de agua. El vórtice más tarde explota en forma de una ola gigante. El usuario puede también controlar la dirección de las olas.",
+    "url": "https://thumbs.gfycat.com/RemarkableEmbellishedAmbushbug-size_restricted.gif"
+  },
+  {
+    "id": "S2",
+    "elemento": "Suiton",
+    "title": "Suiton: Ja no Kuchi",
+    "translate": "Elemento Agua: Boca de Serpiente",
+    "rango": "Rango D",
+    "description": "Es un jutsu que permite al usuario generar una columna giratoria de agua que tendrá la forma de una serpiente con fauces. Esta serpiente puede girar y seguir sus metas y tragarse las. Después de que se los ha tragado, se convierte en un río que lleva al enemigo a una buena distancia.",
+    "url": "https://pa1.narvii.com/6836/90cc75d9750a085864d60efc3834892f3bc868e4_hq.gif"
+  },
+  {
+    "id": "S3",
+    "elemento": "Suiton",
+    "title": "Suiton: Suiben",
+    "translate": "Elemento Agua: Látigo de Agua",
+    "rango": "Rango D",
+    "description": "Es un jutsu que crea un látigo hecho de agua que puede ser envuelto alrededor del oponente. El usuario también puede canalizar, chakra de tipo rayo para electrocutar a quien este envuelto en ella. El látigo mantiene inmovilizado al oponente durante 1 turno, aunque si el adversario tiene más de 7 puntos en Fuerza que el usuario, podrá soltarse, con tan solo ejercer un poco de fuerza.",
+    "url": "http://pa1.narvii.com/7017/3c124b02106372a1d4d617661d3f4b788e1c1bcfr1-416-234_00.gif"
+  },
+  {
+    "id": "S4",
+    "elemento": "Suiton",
+    "title": "Suiton: Mizurappa",
+    "translate": "Elemento Agua: Cuerno de Agua ",
+    "rango": "Rango D",
+    "description": "Crea un chorro de agua que es lanzado desde la boca del usuario. Al combinar este jutsu con Elemento Lava: Ataque de Congelante Caustico el resultado de ambos jutsus es una trampa de cal que atrapa al enemigo impidiendo su movimiento. Este jutsu es bastante simple, tan solo se basa en que el usuario escupa un chorro de agua a presion, por su boca, dicho chorro, puede desplazar al oponente unos metros, pero solo le causa daños leves.",
+    "url": "http://pa1.narvii.com/6833/190221b6e301655fe5586d4be28f3f1cf9ceb210_00.gif"
+  },
+  {
+    "id": "S5",
+    "elemento": "Suiton",
+    "title": "Elemento Agua: Jutsu de Ocultación en el Agua",
+    "translate": "Mizugakure no jutsu",
+    "rango": "Rango D",
+    "description": "Es un jutsu que consiste en que el usuario se mezcla con el agua para pasar inadvertido frente al enemigo, similar a lo visto con el Jutsu Elemento Tierra: técnica de ocultación en la Tierra. Este jutsu solo se puede realizar, en un charco o algo parecido, el usuario debe colocarse encima y hay ejecutar el jutsu, para esconderse en dicho charco.",
+    "url": "https://thumbs.gfycat.com/WealthyQuickClumber-size_restricted.gif"
+  },
+  {
+    "id": "S6",
+    "elemento": "Suiton",
+    "title": "Suiton: Suiryūben",
+    "translate": "Elemento Agua: Látigo de Dragón de Agua ",
+    "rango": "Rango C",
+    "description": "El usuario crea una esfera de agua, de la cual, emergen muchos látigos filosos de agua y se dirigen hacia uno o varios objetivos para apuñalarlos. Los látigos también pueden cambiar de dirección a medio trayecto, inclinándose para buscar los objetivos. Se trata de un Ninjutsu de alto nivel elemental y, por lo tanto, es bastante complicado esquivarlo, debido a que habra numerosos latigos de agua diriegiendose hacia el objetivo.",
+    "url": "https://i.pinimg.com/originals/80/d1/1c/80d11c312c7850a97641d38e3f5c6226.gif"
+  },
+  {
+    "id": "S7",
+    "elemento": "Suiton",
+    "title": "Suiton: Takitsubo no Jutsu",
+    "translate": "Elemento Agua: Jutsu de la Cascada",
+    "rango": "Rango C",
+    "description": "Manipula el agua corriente para así formar una cascada. Esta es una técnica muy conveniente, ya que puede ser usada para cosas como la formación y la relajación. Por otro lado, porque cambia el medio ambiente a gran escala, sino que también tiene el efecto de ocultar la propia localización de los enemigos para confundirlos. La anchura de la fuente de agua, cascada y de la cuenca puede ser agrandada, siempre y cuando el usuario continúe enviando chakra al suelo para mantener la técnica.",
+    "url": "./src/img/S12.gif"
+  },
+  {
+    "id": "S8",
+    "elemento": "Suiton",
+    "title": "Suiton: Hahonryū",
+    "translate": "Elemento Agua: Choque de Rápidos",
+    "rango": "Rango C",
+    "description": "Es un jutsu en donde el usuario hacer brotar agua de su mano para hacerla girar en forma de espiral a una alta velocidad. La cantidad de agua que se crea es lo suficientemente fuerte como para apagar un gran incendio, incluso si es en una gran escala. Este jutsu se puede combinar con jutsus de viento, para aumentar su potencial.",
+    "url": "https://pa1.narvii.com/6367/c6631bf1e0a1cf618570fa8c89f71db4b3149103_hq.gif"
+  },
+  {
+    "id": "S8",
+    "elemento": "Suiton",
+    "title": "Suiton: Mizuame Nabara",
+    "translate": "Elemento Agua: Campo de Jarabe Atrapante ",
+    "rango": "Rango C",
+    "description": "Es un jutsu en donde el usuario escupe agua de alta viscosidad, gracias a la infusión de chakra en el agua, destinado a una superficie de amplio alcance. Se trata de una corriente de líquido pegajoso que se puede utilizar para formar una trampa adhesiva que puede inmovilizar a una persona. Esta técnica puede reducir el área de actividad del enemigo y tiene el efecto de poder tomar el control completo sobre el campo de batalla. El alcance normal de esta técnica es normalmente sólo unos metros, pero si se prepara, también es posible hacer un estanque entero de jarabe. Para prevenir ser atrapado en la técnica, se utiliza la canalización de chakra en los pies que permite, andar sobre él sin inhibiciones, de antemano. Debido a que solo el usuario conoce esto, él se prepara para caminar sobre el agua, pero el adversario, a no ser que conozca este jutsu porque lo haya aprendido o lo haya visto anteriormente, quedara atrapado y sus movimientos, seran más lentos y menos efectivos.",
+    "url": "https://thumbs.gfycat.com/FlatDiscreteBoar-size_restricted.gif"
+  },
+  {
+    "id": "S9",
+    "elemento": "Suiton",
+    "title": "Suiton: Suitenhōfutsu",
+    "translate": "Elemento Agua: Convergencia Agua Cielo ",
+    "rango": "Rango C",
+    "description": "Este jutsu permite al usuario extraer el agua y la humedad del terreno. Este jutsu es perfecto para usuarios de jutsus acuáticos que se encuentran lejos de una fuente de agua en el momento de la batalla. Es capaz de extraer y utilizar las aguas subterráneas y es muy eficaz para la mayoría de los terrenos, pero inútil en las zonas rocosas o montañosas.",
+    "url": "https://2img.net/h/24.media.tumblr.com/tumblr_m15jieXnef1r9uuuso1_500.gif"
+  },
+  {
+    "id": "S10",
+    "elemento": "Suiton",
+    "title": "Suiton: Suijinchū",
+    "translate": "Elemento Agua: Pilar de Agua",
+    "rango": "Rango B",
+    "description": "Es una técnica defensiva donde el usuario amasa Chakra en el interior de su cuerpo conviertiéndola en agua y luego expulsado por la boca en un torrente denso y curvado, creando una barrera prácticamente instantánea que puede ser utilizado para interceptar los ataques entrantes. El usuario puede crear varias barreras, rodeandose asi mismo, para aumentar la defensa y que los ataques sean interceptados, por casi todos los angulos.",
+    "url": "https://i.makeagif.com/media/2-09-2020/aq5O0F.gif"
+  },
+  {
+    "id": "S11",
+    "elemento": "Suiton",
+    "title": "Suiton: Bakusui Shōha",
+    "translate": "Elemento Agua: Explosión de Agua Colisión de Olas",
+    "rango": "Rango B",
+    "description": "Es una técnica en donde el usuario expulsa una inmensa cantidad de agua produciendo unas poderosas olas que pueden aplastar a su enemigo. El agua que se crea puede ser manipulada de tal forma que el usuario pueda atacar rápidamente a su enemigo sin tener que sacar los pies del agua y sin miedo a los contrataques. La cantidad de agua que se use dependerá de cuanto chakra sea usado, si el usuario emplea 500 CK puede llegar a inundar un paisaje desértico con este jutsu en pocos segundos, si en cambio usa el chakra minimo necesario, tan solo podra cubrir una expansion de 30 metros de diametro. ",
+    "url": "http://pa1.narvii.com/6837/94a37a5d4c367f4d90fc5900caa9573acc88f613_00.gif"
+  },
+  {
+    "id": "S12",
+    "elemento": "Suiton",
+    "title": "Suirō no Jutsu",
+    "translate": "Jutsu: Prisión de Agua ",
+    "rango": "Rango B",
+    "description": "Es una técnica que consiste en atrapar a su oponente dentro de una esfera hecha de una gran cantidad de agua, la cual deja inmóvil a su oponente debido a la pesadez del material, además, aunque la cárcel está hecha totalmente de agua es más fuerte que el acero, siendo imposible salir. La única desventaja de este jutsu es que, para mantener la estabilidad de la cárcel, el usuario debe mantener la mano dentro de ella, pero usualmente para evitar este defecto, el portador de la técnica crea un clon de agua para que mantenga la mano dentro de la prisión o luche mientras que el verdadero realiza otra acción o mantiene la mano dentro. A pesar de que el enemigo está atrapado dentro de la cárcel eso no le impide hablar. Para destruir este jutsu un compañero del exterior debe hacer que la persona que mantiene la mano dentro de la prisión la saque o que la víctima sea capaz de liberar chakra a través de sus puntos de presión simultáneamente, interrumpiendo el flujo de chakra de la cárcel tan solo un miembro del Clan Hyuga con un alto nivel, puede realizar esto. ",
+    "url": "https://thumbs.gfycat.com/AgreeableDimArcherfish-max-1mb.gif"
+  },
+  {
+    "id": "S13",
+    "elemento": "Suiton",
+    "title": "Suiton: Goshokuzame",
+    "translate": "Elemento Agua: Cinco Tiburones Hambrientos ",
+    "rango": "Rango B",
+    "description": "Es un jutsu en donde el usuario después de colocar su mano en algún cuerpo de agua tiene la capacidad de crear a unos cinco feroces tiburones hechos de pura agua. Dichos animales van a una alta velocidad creando así una poderosa corriente que le quita la libertad de movimiento a su objetivo, además los dientes de las bestias pueden desgarrar fácilmente el cuerpo de su oponente. Estos tiburones tienen la capacidad de regenerarse utilizando el agua para curar las partes perdidas. Este jutsu puede usarse en un lago, mar o algún lugar parecido.",
+    "url": "https://i.makeagif.com/media/6-15-2016/KeHm2J.gif"
+  },
+  {
+    "id": "S14",
+    "elemento": "Suiton",
+    "title": "Suiton: Mizujinheki",
+    "translate": "Elemento Agua: Pared de Agua",
+    "rango": "Rango B",
+    "description": "Este es un jutsu defensivo que crea una pared de agua alrededor del usuario. Los ataques de los enemigos son totalmente interceptados por una valla de agua soplada hacia fuera de la boca y se eleva desde abajo con una fuerza tremenda. El agua que se expulsa en forma de un círculo alrededor del usuario y hace una defensa sin aberturas. También es posible que el usuario controle la cantidad de agua y la duración a voluntad. La fuerza de la pared y el cambio de la resistencia después de la cantidad de chakra derramado en el agua, por lo que un ninja experto será capaz de construir una fuerte construcción. ",
+    "url": "https://thumbs.gfycat.com/RingedFlusteredAntelopegroundsquirrel-size_restricted.gif"
+  },
+  {
+    "id": "S15",
+    "elemento": "Suiton",
+    "title": "Suiton: Suikōdan no Jutsu",
+    "translate": "Elemento Agua: Jutsu de Misil Tiburón",
+    "rango": "Rango B",
+    "description": "Es una técnica en donde el usuario crea un gran torrente de agua la cual toma la forma de un tiburón, que ataca directamente a su enemigo causando un gran impacto que puede dejar inmóvil a su oponente por varios segundos dándole la oportunidad al usuario de atacar rápidamente, se sabe también que el usuario de este jutsu se puede meter dentro de él y escapar a una gran velocidad. Es un buen jutsu para huir, pero también tiene efectos ofensivos.",
+    "url": "https://thumbs.gfycat.com/UnsungPitifulConey-size_restricted.gif"
+  },
+  {
+    "id": "S16",
+    "elemento": "Suiton",
+    "title": "Elemento Agua: Jutsu de Gran Cascada",
+    "translate": "Suiton: Daibakufu no Jutsu",
+    "rango": "Rango A",
+    "description": "Es un jutsu muy potente en donde el usuario hace elevar una gran cantidad de agua, para así poder lanzarlo contra su enemigo en forma de una ola, similar a la de una cascada. Su poder es tan grande que es capaz de arrojar a varios metros a su enemigo y esparcir agua alrededor de la zona impactada, la cantidad de agua puede inundar todo un terreno y así ahogar a su oponente. Este jutsu tan avanzado requiere mucha agua, es por eso por lo que se necesita hacerlo dentro de un río o lago.",
+    "url": "https://thumbs.gfycat.com/AgreeableCarefreeHarrierhawk-size_restricted.gif"
+  },
+  {
+    "id": "S17",
+    "elemento": "Suiton",
+    "title": "Suiton: Suigadan",
+    "translate": "Elemento Agua: Colmillo Bala de Agua",
+    "rango": "Rango A",
+    "description": "Es una técnica que consiste en levantar el agua que el usuario posee a su alrededor haciendolo girar en forma de taladro, la cual ataca directamente a su enemigo. Lo eficaz de este jutsu es que cubre un ángulo de 360 grados causando que le sea difícil escapar, además el efecto que se crea cuando gira el agua hace que cause una gran presión que puede llegar a matar a su enemigo casi al instante. Este jutsu tiene la ventaja de que tiene una amplia cantidad de aplicaciones.",
+    "url": "https://c.tenor.com/3EUz1kliDSEAAAAC/suiton-suigadan.gif"
+  },
+  {
+    "id": "S18",
+    "elemento": "Suiton",
+    "title": "Suiton: Suiryūdan no Jutsu",
+    "translate": "Elemento Agua: Jutsu Misil Dragón de Agua",
+    "rango": "Rango A",
+    "description": "Es un jutsu que usa una gran cantidad de agua para crear una columna con forma de dragón, golpeando al enemigo con un gran poder, causando un gran daño físico. Lo normal es usar este jutsu estando cerca de una fuente de agua, pero un shinobi con una gran habilidad puede crearlo en un lugar donde no la hay. La cantidad de agua usada es proporcional a la habilidad del usuario.",
+    "url": "https://thumbs.gfycat.com/MiserlyUltimateLacewing-size_restricted.gif"
+  },
+  {
+    "id": "S19",
+    "elemento": "Suiton",
+    "title": "Mizu Bunshin no Jutsu",
+    "translate": "Técnica del Clon de Agua ",
+    "rango": "Rango A",
+    "description": "Es una técnica de clonación similar al Jutsu: Clon de Sombra excepto que crea clones de agua que poseen una décima parte del poder del usuario. Al igual que otros Bunshinjutsu de sólidos, los clones se pueden utilizar para realizar las tareas del usuario. Sin embargo, el rango del clon se limita, ya que no puede viajar muy lejos del cuerpo original (50 metros máximo). Además, los clones de agua sólo tienen una décima parte del poder de la persona original. Al igual que otras técnicas de clonación, los clones de agua si se lesionan se convierten en agua normal de nuevo y se deshacen.",
+    "url": "https://thumbs.gfycat.com/AgreeableDimArcherfish-max-1mb.gif"
+  },
+  {
+    "id": "S20",
+    "elemento": "Suiton",
+    "title": "Suiton: Mizugagami no Jutsu",
+    "translate": "Elemento Agua: Jutsu de Espejo de Agua ",
+    "rango": "Rango A",
+    "description": "Es un jutsu en donde el usuario crea un círculo de agua grande y delgado en frente de sus oponentes con el Báculo de Dominio del Agua, allí el agua refleja la imagen de sus atacantes como un espejo. Luego de esto, el usuario gira el espejo en un ángulo de 90° para hacer que los reflejos se materializan y ataquen a los enemigos con las mismas técnicas de las personas originales. Después de que los reflejos sean golpeados o dañados estos se convierten de nuevo en agua. Es una técnica muy eficaz para evitar ataques poderosos o numerosos.",
+    "url": "https://pa1.narvii.com/6620/95e552113a96c18fedfdee28b470111d38631bdf_hq.gif"
+  },
+  {
+    "id": "S21",
+    "elemento": "Suiton",
+    "title": "Suiton: Teppōdama",
+    "translate": "Elemento Agua: Disparo de Agua",
+    "rango": "Rango A",
+    "description": "Es un jutsu en donde el usuario convierte su chakra en agua, para después expulsarla en forma de balas condensadas. Esta técnica es poderosa por combinar una increible velocidad y poder permitiendo así apagar grandes incendios en pocos segundos. Apesar de que es un ninjutsu que requiere el uso de chakra tipo agua, esta se puede utilizar, aunque no haya una fuente de agua disponible siendo una gran ventaja. La velocidad de las balas puede aumentar drásticamente al tomar como favor la gravedad. Su poder es tal que puede hacer retroceder a un Bijuu. Este jutsu es similar al Jutsu Gran Bola de Fuego, debido a que su tamaño, es aproximadamente el mismo, pero este viaja a más velocidad.",
+    "url": "http://pa1.narvii.com/7182/4e703e248b4b7d5383b845f304fe0a3733e13f7br1-455-250_00.gif"
+  },
+  {
+    "id": "S22",
+    "elemento": "Suiton",
+    "title": "Suiton: Mizu Kamikiri",
+    "translate": "Elemento Agua: Subida de Agua Cortante ",
+    "rango": "Rango S",
+    "description": "Es una técnica en donde el usuario crea un rápido chorro de agua corriendo a través de la tierra que es lo suficientemente potente como para cortar a través de roca sólida. Parece ser un Ninjutsu de alto nivel, sin embargo, puede evitarse fácilmente saltando hacia arriba. Aunque esto solo lo podrán saber, aquellos que conozcan la técnica, porque la hayan entrenado o la hayan visto anteriormente, es decir, si alguien no ha visto nunca, este jutsu no sabrá que saltando lo esquiva fácilmente, aunque es bastante simple adivinarlo, ya que simplemente, de forma intuitiva el rival puede saltar para evitar el ataque.",
+    "url": "./src/img/S23.png"
+  },
+  {
+    "id": "S23",
+    "elemento": "Suiton",
+    "title": "Suiton: Amesuikōha",
+    "translate": "Elemento Agua: Lluvia de Tiburones de Agua",
+    "rango": "Rango S",
+    "description": "El usuario golpea con su palma sobre una superficie de agua cercana, enviando una gran cantidad de agua en el aire. Esta agua forma entonces un gran número de tiburones de agua, que luego caen como una precipitación hacia el objetivo desde arriba. En caso de que estos tiburones son atacados, el agua que los compone simplemente las reformas en innumerables gotas del tamaño de los tiburones, que siguen lloviendo sobre el objetivo e infligen un daño cada vez que entran en contacto con el enemigo. Este jutsu es Inesquivable.",
+    "url": "./src/img/S22.png"
+  },
+  {
+    "id": "S24",
+    "elemento": "Suiton",
+    "title": "Suirō Sameodori no Jutsu",
+    "translate": "Jutsu: Prisión de Agua: Danza de Tiburón ",
+    "rango": "Rango S",
+    "description": "Es un jutsu de elemento agua el cual surge cuando el usuario forma una cúpula de agua con la técnica Gran Explosión de Agua Colisión de Olas, mientras que el usuario, el portador de este ninjutsu, se fusiona con Samehada. Lo especial de esta técnica es que el usuario actúa como el centro de la prisión haciendo que ésta también se mueva en dirección en la que él se mueve. Cuando el usuario se fusiona con Samehada, tiene la capacidad de respirar bajo el agua, dándole mucha ventaja, lo contrario de su oponente ya que éste puede ahogarse por falta de aire. ",
+    "url": "./src/img/S24.png"
+  },
+  {
+    "id": "F1",
+    "elemento": "Futon",
+    "title": "Fūton: Kaze no Kōjō Buki",
+    "translate": "Elemento Viento: Armas Mejoradas de Viento",
+    "rango": "Rango D",
+    "description": "Es un jutsu en donde el usuario infunde su chakra viento en un arma para aumentar su nitidez, alcance y letalidad. El usuario puede exhalar su viento en un kunai o shuriken para crear una hoja afilada en forma de espada. También se puede infundir chakra en shurikens, para aumentar su área de alcance y potencia de corte, realmente se puede aplicar en cualquier arma que posea el usuario, para asi aumentar su daño, teniend en cuenta esto, si el usuario es un buen usuario en el uso de arma, puede trasformar sus armas en objetos mucho más peligrosos.",
+    "url": "https://pa1.narvii.com/6530/9361420dc40d1a4169a6c3703c87c4e875982821_hq.gif"
+  },
+  {
+    "id": "",
+    "elemento": "Futon",
+    "title": "Fūton: Kamikaze",
+    "translate": "Elemento Viento: Viento Divino",
+    "rango": "Rango D",
+    "description": "",
+    "url": "http://pa1.narvii.com/6781/66c346eb9f01584133bde02c7c78880b28f2e4d1_00.gif"
+  },
+  {
+    "id": "",
+    "elemento": "Futon",
+    "title": "Fūton: Kaiten Shuriken",
+    "translate": "Elemento Viento: Shuriken Rotatorio",
+    "rango": "Rango D",
+    "description": "Es una técnica que consiste en infundir shurikens con chakra de viento. El usuario puede manipular los shurikens de manera rotatoria y atacar al enemigo. Estos shurikens, debido a su naturaleza, son mucho más rapidos que los shurikens normales, ademas alrededor de estos, van formando unos pequeños, remolinos alrededor del shuriken, los cuales, producen más daño al contacto con el enemigo. Ademas, debido a que estan formados de viento, el usuario puede cambiar su trayectoria en cualquier momento.",
+    "url": "https://c.tenor.com/G_R0qXcuctIAAAAM/naruto-shippuden-konohamaru-sarutobi.gif"
+  },
+  {
+    "id": "",
+    "elemento": "Futon",
+    "title": "Fūton: Kakeami",
+    "translate": "Elemento Viento: Red",
+    "rango": "Rango D",
+    "description": "Utilizando el Elemento Viento el usuario es capaz de crear una ráfaga de viento extensa en forma de red que aprisiona al oponente y lo deja inmóvil, sin mencionar que la ráfaga lo corta a medida que lo va cubriendo. Este jutsu es bastante efetivo, debido a su gran alcance, lo hace muy dificil esquivarlo. Una vez el enemigo ha sido atrapado, las rafagas de viento lo cortaran y este quedara inmovilizado durante 1 turno.",
+    "url": "https://thumbs.gfycat.com/ScaryLiquidIbis-size_restricted.gif"
+  },
+  {
+    "id": "",
+    "elemento": "Futon",
+    "title": "Fūton: Kiryū",
+    "translate": "Elemento Viento: Corriente de Aire",
+    "rango": "Rango D",
+    "description": "Al soplar el aire de su boca, el usuario es capaz de cambiar de dirección mientras está en el aire a altas velocidades. Con este jutsu el usuario, puede moverse en el aire, sin la necesidad de apoyarse en nada, es muy efectivo, para esquivar ataques. También puede ser utilizado para hacer estallar una nube de polvo, ocultando la ubicación y los movimientos. Este jutsu tecnicamente, permite volar al usuario, ya que se puede ir desplazando por el aire, pero cada vez que se mueva usando el jutsu, gastara el CK requerido para efectuarlo.",
+    "url": "https://64.media.tumblr.com/230da8722a46df8df7de10b20f8c0d17/6eed1f10504dd69a-49/s640x960/0adaa6b9a0138dac28e3272e7dfc56a14bf36c37.gif"
+  },
+  {
+    "id": "",
+    "elemento": "Futon",
+    "title": "Kaze no Yaiba",
+    "translate": "Espada de Viento",
+    "rango": "Rango D",
+    "description": "El usuario emite chakra de elemento viento por sus dedos y lo materializa en forma de una espada de aire invisible que ataca al enemigo, debido a que está unida a la mano del usuario y ademas, está formada por viento, es muy ligera y facil de manejar, haciendo que el usuario, sea mucho más rapido utilizandola y sus golpes sean más efectivos. Esta técnica es casi imposible de bloquear sin embargo si se la puede frenar.",
+    "url": "./src/img/f1.png"
+  },
+  {
+    "id": "",
+    "elemento": "Futon",
+    "title": "Fūton: Hanachiri Mai",
+    "translate": "Elemento Viento: Danza de Pétalos de Polvo",
+    "rango": "Rango C",
+    "description": "El usuario crea un tornado de petalos de flores, éste puede ser manipulado a voluntad, sin necesidad de moverse del lugar. Se puede controlar la velocidad, potencia y distancia del tornado. La punta del tornado forma un espiral que va absorbiendo los pétalos y el aire para aumentar el daño del jutsu. Este jutsu es bastante poderoso, debido a que la espiral, funciona como un taladro que puede perforar, parte del cuerpo del rival.",
+    "url": "https://thumbs.gfycat.com/FarawaySociableHart-size_restricted.gif"
+  },
+  {
+    "id": "",
+    "elemento": "Futon",
+    "title": "Fūton: Fū no Supairarubōru",
+    "translate": "Elemento Viento: Bola Espiral de Viento",
+    "rango": "Rango C",
+    "description": "Esta técnica permite al usuario expulsar el viento con la infusión de chakra en la palma de su mano, dándole la forma de una bola pequeña, como torbellino. Luego, el usuario la dispara a su oponente. Esta técnica parece ser muy rápida y potente, ya que es capaz de atravesar una roca sin grandes dificultades, debido a las propias capacidades del viento de cortar, provoca que, si impacta de forma directa con el adversario, este sea atravesado y quede muy mal herido.  ",
+    "url": "https://vignette.wikia.nocookie.net/wikichoco/images/1/14/Bola_espiral_de_viento-1.png/revision/latest?cb=20130224213610&path-prefix=es"
+  },
+  {
+    "id": "",
+    "elemento": "Futon",
+    "title": "Fūton: Shinkūgyoku",
+    "translate": "Elemento Viento: Esfera del Vacio ",
+    "rango": "Rango C",
+    "description": "Es un jutsu que utiliza la naturaleza tipo Viento, en donde el usuario tras haber inhalado por su boca una gran cantidad de aire pueda lanzarlo en forma de balas de viento comprimido juntados con su chakra. Las ventajas de esta técnica es que la velocidad de los ataques y la cantidad de disparos es lo suficiente como para dañar gravemente a su enemigo, además de que su poder de ataque es tan grande que es capaz de perforar la carne con su simple contacto.",
+    "url": "https://img.wattpad.com/a797fa21147bfeff50c35bda31d0492019c47342/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f57495657535271356976553175773d3d2d3838393936383734362e313631313636663830616463363432303534343538353431383534302e676966"
+  },
+  {
+    "id": "",
+    "elemento": "Futon",
+    "title": "Fūton: Suiran Reppū",
+    "translate": "Elemento Viento: Ráfaga Violenta de las Montañas Verdes",
+    "rango": "Rango C",
+    "description": "Es un jutsu que solo puede ser utilizado mediante el uso de chakra de Viento, el usuario puede infundir de chakra sus armas a distancia y manipularlos. Este jutsu es muy util, ya que pueden usarse para muchas cosas, incluidas escapar de alguna prision que solo se pueda romper desde fuera, como demostro Asuma cuando uso este Jutsu para fugarse del Elemento Rayo: Prisión de Rayo. Para controlar un objeto, el usuario debe haber tocado previamente dicho objeto, al menos debe haberlo tocado una vez en su vida, de esta forma podra trasmitirle su chakra a distancia.",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": "data:image/jpeg;base64,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"
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  },
+  {
+    "id": "",
+    "elemento": "",
+    "title": "",
+    "translate": "",
+    "rango": "",
+    "description": "",
+    "url": ""
+  }
+]

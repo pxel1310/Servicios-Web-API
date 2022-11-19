@@ -1,0 +1,22 @@
+{
+  "name": "doujutsus-agi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pxel1310/5IV7_AGI_Examen1erAP.git"
+  },
+  "author": "Ayala Gonzalez Ian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pxel1310/5IV7_AGI_Examen1erAP/issues"
+  },
+  "homepage": "https://github.com/pxel1310/5IV7_AGI_Examen1erAP#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.1"
+  }
+}

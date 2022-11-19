@@ -1,0 +1,239 @@
+html {
+  min-height: 100%;
+  font-size: 95%;
+}
+
+:root {
+  --color1: #613abd;
+  --color2: #101275;
+  --color3: #751249;
+  --color4: #1c1b6d;
+  --grey: #f0cff1;
+  --white: #ffffff;
+}
+
+/* Uso de variables en css esta medio X */
+
+* {
+  padding: 0;
+  box-sizing: border-box;
+}
+*:focus-visible {
+  outline: 2px solid var(--color2);
+}
+
+body {
+  color: var(--color2);
+  background-image: linear-gradient(to top, #ffffff 0%, #dde1f0 100%);
+}
+.wrapper {
+  display: grid;
+  grid-template-rows: minmax(75px, auto) minmax(450px, auto) auto auto minmax(
+      90px,
+      auto
+    );
+}
+
+.desc {
+  margin: 2rem;
+  font-size: 1.5rem;
+}
+
+.navGod {
+  background-image: linear-gradient(
+    to top,
+    var(--color2) 0%,
+    var(--color3) 100%
+  );
+}
+
+.navP {
+  color: var(--white);
+  font-size: 1.6rem;
+}
+
+.navImg {
+  width: 7.5rem;
+  border-radius: 50%;
+  opacity: 0.75;
+}
+
+.cards,
+.favourites {
+  overflow-x: auto;
+  width: 100%;
+}
+
+.card-wrapper {
+  position: relative;
+  width: 98vw;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 0 auto;
+  min-height: 320px;
+  padding: 30px 50px;
+  gap: 5rem;
+  overflow-x: auto;
+
+  scroll-snap-align: center;
+  scroll-snap-type: x proximity;
+}
+
+.card-wrapper {
+  max-width: 107.5rem;
+  grid-template-columns: repeat(auto-fill, minmax(0, 220px));
+}
+.dou-item,
+.user-item {
+  position: relative;
+  min-width: 22rem;
+  width: clamp(220px, 250px, 300px);
+  max-height: 30rem;
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: -5px -5px 15px var(--color3),
+    -10px -10px 15px rgba(255, 255, 255, 0.52), 10px 10px 15px var(--color2);
+  scroll-snap-align: center;
+}
+.dou-item img,
+.user-item img {
+  display: block;
+  width: 17.5rem;
+  border-radius: 3rem;
+  object-fit: cover;
+  object-position: center;
+  padding: 1.25rem;
+}
+
+.user-item img{
+  max-height: 15rem;
+}
+.dou-item button,
+.user-item button {
+  position: absolute;
+  right: 0.25rem;
+  bottom: 0.5rem;
+  padding: 5px 5px;
+  border: none;
+  font-family: var(--font-1);
+  font-size: 1.5rem;
+  font-weight: bold;
+  border-radius: 10px;
+  color: var(--grey);
+  background-color: var(--color4);
+}
+
+#sd{
+  background-color: var(--color3);
+  position: relative;
+  margin: .1rem .1rem .1rem .5rem;
+}
+
+/* Ni noto la diferncia, 1 hr perdida .-. */
+.dou-item button:active,
+.user-item button:active {
+  background-color: var(--color2);
+}
+.cards__refresh-button {
+  display: grid;
+  place-content: center;
+  min-height: 140px;
+  background-color: var(--white);
+}
+.cards__refresh-button button {
+  border: none;
+  margin: 20px auto 80px;
+  padding: 13px 30px;
+  font-size: 2rem;
+  line-height: 2.34rem;
+  font-family: var(--font-1);
+  color: var(--white);
+  background-color: var(--color3);
+  border-radius: 10px;
+  box-shadow: -5px -5px 15px rgba(255, 255, 255, 0.5),
+    -10px -10px 15px rgba(255, 255, 255, 0.52),
+    10px 10px 15px rgba(255, 0, 0, 0.15);
+
+  cursor: pointer;
+}
+
+.favourites__title {
+  display: flex;
+  padding: 0 25px;
+  height: 50px;
+  align-items: center;
+}
+.favourites__title h2 {
+  font-size: 2rem;
+  text-transform: uppercase;
+  margin: 0 auto;
+  padding: 1.2rem;
+}
+
+h2,
+p {
+  padding: 0.25rem;
+}
+
+p {
+  font-size: 1.15rem;
+}
+.favourites__card-wrapper .card-item button {
+  color: var(--white);
+  background-color: var(--color4);
+}
+
+.random__refresh-button {
+  display: grid;
+  place-content: center;
+  min-height: 140px;
+}
+.random__refresh-button button {
+  border: none;
+  margin: 20px auto 80px;
+  padding: 13px 30px;
+  font-size: 2rem;
+  line-height: 2.34rem;
+  font-family: var(--font-1);
+  color: var(--white);
+  background-color: var(--color4);
+  border-radius: 10px;
+  box-shadow: -5px -5px 15px rgba(255, 255, 255, 0.5),
+    -10px -10px 15px rgba(255, 255, 255, 0.52),
+    10px 10px 15px rgb(0, 0, 0);
+
+  cursor: pointer;
+}
+.random__refresh-button button:active {
+  background-color: var(--color2);
+}
+.random__refresh-button button span {
+  display: inline-block;
+  width: 22px;
+  height: 24px;
+  vertical-align: middle;
+  margin-right: 5px;
+  background-image: url("../src/img/refresh.svg");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* Es q si el svg, se ve feo */
+
+footer {
+  padding: 3rem 2.5rem;
+  font-size: 1.75rem;
+  color: var(--white);
+  background-color: var(--color2);
+}
+footer ul {
+  list-style: none;
+}
+footer li a {
+  margin-left: 5px;
+  color: var(--white);
+}
+
+/* Footer todo feo */
